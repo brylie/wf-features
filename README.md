@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/brylie/wf-features.png?label=ready&title=Ready)](https://waffle.io/brylie/wf-features)
 wf-features
 ===========
 
